@@ -13,5 +13,7 @@ class Dog
   #   puts "woof!"
   # end
   
+  name.bark
+  
 end
 
